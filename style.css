@@ -3,9 +3,11 @@
             color: red;
             background: rgb(0, 225, 255);
         }
-        p {
+        p b{
             text-align: center;
-            color: purple;
+            color: black;
+        
+        }
         }
         img{
             display: block;
