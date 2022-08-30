@@ -1,7 +1,7 @@
  h1 {
             text-align: center;
             color: red;
-            background: yellow;
+            background: rgb(0, 225, 255);
         }
         p {
             text-align: center;
@@ -17,12 +17,15 @@
         }
 
         .itens{
-            font-weight: bold;
+            color: black;
+            text-align:center;
         }
 
         .espaço{
-            color: purple;
+            color:black;
+            text-align: center;
         }
         .localização{
             text-align: center;
+            color: black;
         }
