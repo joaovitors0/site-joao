@@ -3,10 +3,18 @@
             color: red;
             background: rgb(0, 225, 255);
         }
-        p b{
+        .p b {
             text-align: center;
             color: black;
         
+        }
+        .p i {
+            text-align: center;]
+            color:black ;
+        }
+        .p u{
+            text-align: center;
+            color: black;
         }
         
         img{
